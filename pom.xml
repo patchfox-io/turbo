@@ -13,7 +13,7 @@
 	<groupId>io.patchfox.turbo</groupId>
 	<artifactId>turbo</artifactId>
 	<!-- don't forget to change the version to 0.0.1 when you implement this as a new service -->
-	<version>0.0.30</version>
+	<version>0.0.31</version>
 	<name>turbo</name>
 	<description>PUT-DESCRIPTION-HERE</description>
 	
@@ -59,7 +59,7 @@
 		<dependency>
   			<groupId>io.patchfox.utils</groupId>
   			<artifactId>package-utils</artifactId>
-  			<version>1.0.9</version>			
+  			<version>1.0.10</version>
 		</dependency>
 
 		<dependency>
